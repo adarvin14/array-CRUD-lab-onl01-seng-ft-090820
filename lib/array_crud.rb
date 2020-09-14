@@ -16,8 +16,12 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
+<<<<<<< HEAD
   array = [5, "arrays!"]
   array.pop
+=======
+  array = [1, 2, 3, 4, "arrays!"]
+>>>>>>> e6bfefa4f9a1d2f3e4fc4c2e9c20410815df1ba4
 end
 
 def remove_element_from_start_of_array(array)
